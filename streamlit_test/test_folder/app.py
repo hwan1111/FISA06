@@ -68,7 +68,7 @@ else:
 # 6. 식당 정보
 st.write("---")
 st.markdown("### 📍 오늘 선정한 식당 정보")
-naver_map_url = "https://naver.me/GKUJawFB"
+naver_map_url = "https://naver.me/GeUOwoOF"
 st.link_button("👉 네이버 지도로 보기", naver_map_url, use_container_width=True)
 
 # 7. 실시간 업데이트 (1초마다 새로고침)
